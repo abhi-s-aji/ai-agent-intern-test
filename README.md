@@ -963,17 +963,21 @@ The current implementation intentionally avoids these features because the assig
 
 ## 25. Demo Video
 
-A short demonstration of the Aster & Row support agent covering:
+## Demo
 
-* knowledge-base question with source citations
-* order lookup using the order tool
-* multi-turn conversation context
-* safe abstention and human handoff
-* evaluation suite
+A short demonstration of the **Aster & Row Support Agent**, covering:
 
-> **Note:** GitHub README files do not reliably provide inline playback for a local `demo.mp4` file. The repository should therefore link to the video rather than relying on a Markdown video player.
+* Knowledge-base questions with source citations
+* Order lookup using the order tool
+* Multi-turn conversations with preserved context
+* Safe abstention and human handoff when the agent cannot confidently answer
+* Evaluation results demonstrating agent performance
 
-[▶ Watch the 2–4 minute demo video](./demo.mp4)
+### Watch the Demo
+
+[Watch the 2–4 minute demo on YouTube](https://youtu.be/IGY9440B6KA)
+
+> **Note:** The demo video is hosted on YouTube as an unlisted video for reliable playback. This avoids depending on GitHub README support for inline playback of local `demo.mp4` files.
 
 ---
 
