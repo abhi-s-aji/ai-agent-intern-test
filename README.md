@@ -1133,4 +1133,4 @@ Final result: 21/21 — 100%
 
 ## License
 
-This project was created as part of the **Aster & Row AI Agent Intern take-home assignment**.
+This project was created as part of the **INTERNSHIP**.
